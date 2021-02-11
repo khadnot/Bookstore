@@ -7,7 +7,7 @@
     "default": {},
     "examples": [
         {
-            "isbn": "0691161518",
+            "isbn": 1691161518,
             "amazon_url": "http://a.co/eobPtX2",
             "author": "Matthew Lane",
             "language": "english",
@@ -35,7 +35,7 @@
             "description": "An explanation about the purpose of this instance.",
             "default": "",
             "examples": [
-                "0691161518"
+                "1691161518"
             ]
         },
         "amazon_url": {
